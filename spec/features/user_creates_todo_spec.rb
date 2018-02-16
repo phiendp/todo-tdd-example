@@ -2,6 +2,7 @@ require "rails_helper"
 
 feature "User creates todo" do
   scenario "Successfully" do
+    sign_in
     visit root_path
 
     click_on "Add a new todo"    
