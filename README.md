@@ -7,4 +7,7 @@ An example of applying TDD using Rspec, Capybara,...
 - [x] Setup Rspec and Capybara.
 - [x] Create first ToDo.
 - [x] User authentication and ToDo's ownership.
-- [ ] Refactor User model.
+- [x] Refactor User model.
+- [x] Mark a Todo as completed.
+- [ ] Refactor Todo completion.
+- [ ] Mark a Todo as incompleted.
