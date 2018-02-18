@@ -9,5 +9,5 @@ An example of applying TDD using Rspec, Capybara,...
 - [x] User authentication and ToDo's ownership.
 - [x] Refactor User model.
 - [x] Mark a Todo as completed.
-- [ ] Refactor Todo completion.
+- [x] Refactor Todo completion.
 - [ ] Mark a Todo as incompleted.
