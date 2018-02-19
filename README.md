@@ -1,7 +1,7 @@
 # TDD Example
 
 ## Introduction
-An example of applying TDD using Rspec, Capybara,... 
+An example of applying Test-Driven Developmet, in which a ToDo web application is built using Ruby on Rails, Rspec, Capybara,... 
 
 ## Task List
 - [x] Setup Rspec and Capybara.
